@@ -1,6 +1,8 @@
 # 💫 Sobre mim:
 👋 Olá! Eu sou o João Victor<br>Sou um Desenvolvedor Full-Cycle Júnior. Trabalho principalmente com Flutter, React, <br>Golang e Node.js, clean code, escalabilidade e boas práticas de arquiteturas<br><br>Tenho experiência prática no desenvolvimento de sistemas completamente.
 
+👋 Olá! Eu sou o João Victor<br>Sou Desenvolvedor Full-Cycle Júnior, atuando principalmente com Flutter, React, Golang <br> e Node.js. Tenho foco em clean code, escalabilidade e boas práticas de programação. <br><br>Participo desde a concepção do design até o deploy e monitoramento das aplicações.
+
 
 ## 🌐 Designs:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/vivacelettuce) 
