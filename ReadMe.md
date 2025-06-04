@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-👋 Olá! Eu sou o João Victor<br>Sou um Desenvolvedor Full-Stack Júnior. Trabalho principalmente com Flutter, React, <br>Golang e Node.js, clean code, escalabilidade e boas práticas de arquiteturas como MVC <br>e Clean Arch.<br><br>Tenho experiência prática no desenvolvimento de sistemas completos — desde o backend <br>com APIs RESTful e banco de dados, até o frontend mobile e web. Também trabalho com <br>Docker, MongoDB, SQL, Git, e tenho conhecimento em DevOps e servidores Linux (Debian).
+👋 Olá! Eu sou o João Victor<br>Sou um Desenvolvedor Full-Cycle Júnior. Trabalho principalmente com Flutter, React, <br>Golang e Node.js, clean code, escalabilidade e boas práticas de arquiteturas<br><br>Tenho experiência prática no desenvolvimento de sistemas completamente.
 
 
 ## 🌐 Designs:
